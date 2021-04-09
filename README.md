@@ -1,3 +1,5 @@
+## Instructions for the Temporal Clustering Tool
+
 This application is an attempt to make the [temporal clusters generated
 by Sebastian’s
 code](http://emlonetworks.pythonanywhere.com/static/TEMPORAL/index.html)
