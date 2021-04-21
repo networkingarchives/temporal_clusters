@@ -1,5 +1,3 @@
-## Instructions for the Temporal Clustering Tool
-
 This application is an attempt to make the [temporal clusters generated
 by Sebastian’s
 code](http://emlonetworks.pythonanywhere.com/static/TEMPORAL/index.html)
@@ -22,6 +20,40 @@ These are:
 -   The text info window
 
 ![](screens/Screenshot%202021-04-09%20at%2015.33.11.png)
+
+#### Enabling Manuscript Images
+
+The new version of the app allows you to click through and view the
+manuscript images for each letter. The images come from your own hard
+drive, and as each drive can have a different path, you’ll need to tell
+the application how to access your version.
+
+To do this you need to open a random image in the DE, and input the
+‘unique’ portion of this to the application. First, open any manuscript
+image in the DE, using your browser.
+
+<img src="screens/Screenshot%202021-04-21%20at%2016.53.09.png" width="994" />
+
+Navigate to the URL bar at the top of the screen (in red above). It will
+contain a link which will look something like this:
+
+<file:///Volumes/SPO1/>**SPO3/IMG/sp044-027/sp044-027-000\_0037\_29.jpg**
+
+The part in **bold** is the ‘standard’ part of the link. This is the
+same on any computer.
+
+The bit before the bold text:
+
+<file:///Volumes/SPO1/>
+
+Is different depending on your set up and whether you’re using a mac or
+PC. Copy this part of the url, and paste it into the text box labelled
+‘Enter relative path:’
+
+<img src="screens/Screenshot%202021-04-21%20at%2017.00.48.png" width="994" />
+
+Now click on the ‘image’ links in the text info box should bring you to
+the correct manuscript pages.
 
 #### Timeline view:
 
