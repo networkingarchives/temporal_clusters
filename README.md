@@ -6,26 +6,11 @@ detail, but essentially the clusters are looking for ‘conversations’:
 unusually intense bursts of communication among a group in a short space
 of time.
 
-#### Application Overview
-
-The application can be found at
-<https://networkingarchives.shinyapps.io/temporal_clusters>. When it
-first loads (this takes a couple of seconds) you’ll be presented with
-four separate windows. Some of these are empty until data is selected.
-These are:
-
--   The timeline view
--   The search and filter window
--   The network window
--   The text info window
-
-![](screens/Screenshot%202021-04-09%20at%2015.33.11.png)
-
 #### Enabling Manuscript Images
 
 The new version of the app allows you to click through and view the
 manuscript images for each letter. The images come from your own hard
-drive, and as each drive can have a different path, you’ll need to tell
+drive (so of course this needs to be plugged into your computer, and as each drive can have a different path, you’ll need to tell
 the application how to access your version.
 
 To do this you need to open a random image in the DE, and input the
@@ -54,6 +39,21 @@ PC. Copy this part of the url, and paste it into the text box labelled
 
 Now click on the ‘image’ links in the text info box should bring you to
 the correct manuscript pages.
+
+#### Application Overview
+
+The application can be found at
+<https://networkingarchives.shinyapps.io/temporal_clusters>. When it
+first loads (this takes a couple of seconds) you’ll be presented with
+four separate windows. Some of these are empty until data is selected.
+These are:
+
+-   The timeline view
+-   The search and filter window
+-   The network window
+-   The text info window
+
+![](screens/Screenshot%202021-04-09%20at%2015.33.11.png
 
 #### Timeline view:
 
